@@ -29,11 +29,7 @@
 ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)
 
 
-### Project management tools
-![Microsoft Project](https://img.shields.io/badge/-Microsoft%20Project-217346?style=flat-square&logo=microsoft&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
 
 
 ### Software development and programming tools
@@ -43,5 +39,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif&quot; width="1111">
+---<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500">
+
