@@ -6,7 +6,7 @@
 ## 🌍 About Me
 - 🌏 **Living and creating in the heart of VietNam** 
 - ✉️ **Contact me**: [vanthanhle.dev@gmail.com](vanthanhle.dev@gmail.com)  
-- 🎓 **Currently learning at**: Ho Chi Minh City University of Industry and Trade
+- 🎓 **Currently learning at**: Ho Chi Minh City University of Industry and  Trade
 
 ---
 
