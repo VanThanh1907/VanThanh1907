@@ -14,12 +14,12 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vanthanhh1907) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/th%C3%A0nh-v%C4%83n-b397bb361/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanthanhle.dev@gmail.com) 
 ###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanThanh1907/VanThanh1907/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanThanh1907/VanThanh1907/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VanThanh1907/VanThanh1907/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VanThanh1907/VanThanh1907/output/pacman-contribution-graph-dark.svg?t=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VanThanh1907/VanThanh1907/output/pacman-contribution-graph.svg?t=1">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VanThanh1907/VanThanh1907/output/pacman-contribution-graph.svg?t=1">
 </picture>
+
 
 ###
 # 💻 Tech Stack:
