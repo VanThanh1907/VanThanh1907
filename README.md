@@ -2,7 +2,6 @@
 ✨ With a solid background in project management and software development, I aspire to become a professional developer in the field of information technology. I am passionate about building innovative products and continuously improving my technical skills to deliver sustainable value to the organization. My goal is to contribute to long-term development through practical, high-quality software solutions.
 
 ---
-
 ## 🌍 About Me
 - 🌏 **Living and creating in the heart of VietNam** 
 - ✉️ **Contact me**: [vanthanhle.dev@gmail.com](vanthanhle.dev@gmail.com)  
